@@ -1,0 +1,12 @@
+{
+    "files.eol": "\n",
+    "stylelint.enable": true,
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.detectIndentation": false,
+    "prettier.semi": false
+}
